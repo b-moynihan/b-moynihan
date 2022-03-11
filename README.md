@@ -10,3 +10,5 @@ Current Location: 📍 Cork, Munster, Ireland 🇮🇪
 🌎 Check my website: bridmoynihan.me
 
 Feel free to reach out and drop me a line 💬
+
+![b-moynihan's github stats](https://github-readme-stats.vercel.app/api?username=b-moynihan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
