@@ -4,9 +4,9 @@ Hey there, I'm Brid! Remote Data Engineer currently working at Glofox 🦊- Givi
 
 A bit about me:
 Nationality: Irish ☘️
-Personal interests: 🎞️📷🕹️🎸💿🏃
-Countries I've visited: 🇵🇭, 🇸🇬, 🇨🇳, 🇬🇧, 🇺🇸, 🇳🇱, 🇫🇷 
-Current location: 📍 Cork, Munster, Ireland
+Personal Interests: 🎞️📷🕹️🎸💿🏃
+Countries Visited: 🇵🇭, 🇸🇬, 🇨🇳, 🇬🇧, 🇺🇸, 🇳🇱, 🇫🇷 
+Current Location: 📍 Cork, Munster, Ireland 🇮🇪
 🌎 Check my website: bridmoynihan.me
 
 Feel free to reach out and drop me a line 💬
