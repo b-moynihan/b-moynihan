@@ -1,12 +1,47 @@
-![computer](https://user-images.githubusercontent.com/99199823/157508863-2ca03da0-2131-43df-a292-4f2df410219f.gif)
+<h1 align="center">
+  <img src="./assets/Brid%20Moynihan.svg" alt="Brid Moynihan" />
+</h1>
+
+<p align="center">
+  <img src="./assets/computer.gif" alt="animated" />
+</p>
 
 Hey there, I'm Brid! Remote Data Engineer currently working at Glofox 🦊- Giving customers insights into their Gyms and Businesses with Analytics and Big Data solutions 📈
 
+![Code Time](https://img.shields.io/badge/Code%20Time-26298%20hours-brightgreen) ![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-100%2C000%2C000-brightgreen)
+
+```javascript
+const brid = {
+    pronouns: "She" | "Her",
+    code: ["Python", "SQL", "Javascript"],
+    askMeAbout: ["data engineering", "big data", "data ops", "photography", 'fitness'],
+    technologies: {
+        databases: ["Redshift", "Cassandra", "Mongo", "MySql"],
+        etl: {
+            frameworks: ["Airflow", "Glue", "DBT"]
+        },
+        ingestion: {
+            frameworks: ["Stitch", "Fivetran", "AWS Kinesis", "AWS Firehose"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        misc: ["Looker", "Notion Builder", "Postman API Collections", "Jupyter Notebooks"]
+    },
+    architecture: ["Data Lake Architecture", "Extract Transform Load Pipelines", "Big Data Architecture"],
+    currentFocus: "Building Analytics solutions to give customers valuable insight into their business",
+    joke: "A SQL query walks into a bar, approaches two tables and asks 'Can I join you?'"
+};
+```
+
 A bit about me:
+
 Nationality: Irish ☘️
+
 Personal Interests: 🎞️📷🕹️🎸💿🏃
+
 Countries Visited: 🇵🇭, 🇸🇬, 🇨🇳, 🇬🇧, 🇺🇸, 🇳🇱, 🇫🇷 
+
 Current Location: 📍 Cork, Munster, Ireland 🇮🇪
+
 🌎 Check my website: bridmoynihan.me
 
 Feel free to reach out and drop me a line 💬
