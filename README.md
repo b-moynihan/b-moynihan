@@ -6,7 +6,17 @@
   <img src="./assets/computer.gif" alt="animated" />
 </p>
 
-Hey there, I'm Brid! Remote Data Engineer currently working at Glofox 🦊- Giving customers insights into their Gyms and Businesses with Analytics and Big Data solutions 📈
+<p align="center">
+    <h1  align="center" > 𝙷𝚎𝚢 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙱𝚛í𝚍! </h1> 
+    <h4 align="center"> 𝚁𝚎𝚖𝚘𝚝𝚎 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚝 𝙶𝚕𝚘𝚏𝚘𝚡 🦊 𝙶𝚒𝚟𝚒𝚗𝚐 𝚌𝚞𝚜𝚝𝚘𝚖𝚎𝚛𝚜 𝚒𝚗𝚜𝚒𝚐𝚑𝚝𝚜 𝚒𝚗𝚝𝚘 𝚝𝚑𝚎𝚒𝚛 𝙶𝚢𝚖𝚜 𝚊𝚗𝚍 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜𝚎𝚜 𝚠𝚒𝚝𝚑 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚊𝚗𝚍 𝙱𝚒𝚐 𝙳𝚊𝚝𝚊 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 📈 </h4>
+</p>
+
+<p align="center">
+    <h3  align="center" > 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢: 𝙸𝚛𝚒𝚜𝚑 ☘️ </h1> 
+    <h3  align="center" > 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: 🎞️📷🕹️🎸💿🏃👩‍🍳 </h1> 
+    <h3  align="center" > 𝙲𝚘𝚞𝚗𝚝𝚛𝚒𝚎𝚜 𝚅𝚒𝚜𝚒𝚝𝚎𝚍: 🇵🇭, 🇸🇬, 🇨🇳, 🇬🇧, 🇺🇸, 🇳🇱, 🇫🇷  </h1> 
+    <h3  align="center" > 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗: 📍 𝙲𝚘𝚛𝚔, 𝙼𝚞𝚗𝚜𝚝𝚎𝚛, 𝙸𝚛𝚎𝚕𝚊𝚗𝚍 🇮🇪 </h1> 
+</p>
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-26298%20hours-brightgreen) ![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-100%2C000%2C000-brightgreen)
 
@@ -14,9 +24,9 @@ Hey there, I'm Brid! Remote Data Engineer currently working at Glofox 🦊- Givi
 const brid = {
     pronouns: "She" | "Her",
     code: ["Python", "SQL", "Javascript"],
-    askMeAbout: ["data engineering", "big data", "data ops", "photography", 'fitness'],
+    askMeAbout: ["data engineering", "big data", "data ops", "photography", 'fitness', 'cooking'],
     technologies: {
-        databases: ["Redshift", "Cassandra", "Mongo", "MySql"],
+        databases: ["Redshift", "Cassandra", "Firebase", "MySql"],
         etl: {
             frameworks: ["Airflow", "Glue", "DBT"]
         },
@@ -32,21 +42,9 @@ const brid = {
 };
 ```
 
-A bit about me:
-
-Nationality: Irish ☘️
-
-Personal Interests: 🎞️📷🕹️🎸💿🏃👩‍🍳
-
-Countries Visited: 🇵🇭, 🇸🇬, 🇨🇳, 🇬🇧, 🇺🇸, 🇳🇱, 🇫🇷 
-
-Current Location: 📍 Cork, Munster, Ireland 🇮🇪
-
-🌎 Check my website: bridmoynihan.me
-
-Feel free to reach out and drop me a line 💬
-
 ![b-moynihan's github stats](https://github-readme-stats.vercel.app/api?username=b-moynihan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### 🌎 𝙲𝚑𝚎𝚌𝚔 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎: bridmoynihan.me
 
 <div style="padding: 25px 0;">
     <a href="https://twitter.com/brid_moynihan" style="padding: 8px; width: 24px; height: 24px;">
