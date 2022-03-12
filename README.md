@@ -42,7 +42,7 @@ const brid = {
 };
 ```
 
-![b-moynihan's github stats](https://github-readme-stats.vercel.app/api?username=b-moynihan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Brid's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-moynihan&show_icons=true&theme=radical)
 
 ### 🌎 𝙲𝚑𝚎𝚌𝚔 𝚖𝚢 𝚠𝚎𝚋𝚜𝚒𝚝𝚎: bridmoynihan.me
 
