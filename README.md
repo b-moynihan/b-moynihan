@@ -36,7 +36,7 @@ A bit about me:
 
 Nationality: Irish ☘️
 
-Personal Interests: 🎞️📷🕹️🎸💿🏃
+Personal Interests: 🎞️📷🕹️🎸💿🏃👩‍🍳
 
 Countries Visited: 🇵🇭, 🇸🇬, 🇨🇳, 🇬🇧, 🇺🇸, 🇳🇱, 🇫🇷 
 
