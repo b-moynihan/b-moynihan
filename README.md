@@ -61,4 +61,7 @@ Feel free to reach out and drop me a line 💬
     <a href="https://bridmoynihan.medium.com/" style="padding: 8px; width: 24px; height: 24px;">
         <img src="./assets/medium.png" alt="Follow me on Medium" width="24" height="24">
     </a>
+    <a href="https://www.npmjs.com/~b-moynihan" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="./assets/npm-icon.png" alt="Check out my NPX Packages" width="24" height="24">
+    </a>
 </div>
